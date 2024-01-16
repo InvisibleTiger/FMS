@@ -94,7 +94,9 @@ def update_buttons_visibility():
         btn_increase_subsec6.grid_remove()
 
 def update_values():
-    
+    #more code here what a bozo
+    pass
+
 
 # Create main window
 root = tk.Tk()
